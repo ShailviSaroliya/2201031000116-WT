@@ -1,0 +1,759 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 158rem;
+}.landing-page-Woq {
+  box-sizing: border-box;
+  padding-bottom: 21.5093rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #dddddd;
+}
+.landing-page-Woq .auto-group-kzik-u5H {
+  box-sizing: border-box;
+  padding-bottom: 4.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .auto-group-weaj-KHR {
+  margin-right: 57.2899rem;
+  width: calc(100% - 57.2899rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .auto-group-weaj-KHR .final-ks-1-RLT {
+  margin-right: 73.9462rem;
+  width: 24.57rem;
+  height: 11.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/final-ks-1-bg.png');
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .auto-group-weaj-KHR .navbar-vHD {
+  margin-bottom: 0.2105rem;
+  width: 2.1939rem;
+  height: 1.7938rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .auto-group-svtz-qf5 {
+  margin: 0rem 8.8rem 5rem 5.2rem;
+  width: calc(100% - 14rem);
+  height: 85rem;
+  position: relative;
+  background-color: #000000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/auto-group-qhsf.png');
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .auto-group-svtz-qf5 .our-homes-are-more-than-structures-theyre-crafted-with-unparalleled-attention-to-detail-Lrj {
+  width: 29.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 46.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.landing-page-Woq .auto-group-kzik-u5H .auto-group-svtz-qf5 .rectangle-165-t15 {
+  width: 28.4rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.7rem;
+  top: 55.6rem;
+  background-color: #0fb3af;
+  border-radius: 4rem;
+}
+.landing-page-Woq .auto-group-kzik-u5H .auto-group-svtz-qf5 .log-in-to-explore-more-PTd {
+  width: 21.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 22rem;
+  top: 57rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js {
+  margin: 0rem 11.3rem 9.2rem 10.8rem;
+  width: calc(100% - 22.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js .right-side-MYs {
+  margin: 0rem 10.066rem 2.293rem 0rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js .right-side-MYs .group-7-PkT {
+  margin-bottom: 1.6012rem;
+  width: 18.3005rem;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js .right-side-MYs .group-7-PkT .rectangle-vkP {
+  width: 100%;
+  height: 0.3988rem;
+  background: linear-gradient(90deg, #ffac12 0%, #000000 94.96%);
+  border-radius: 0.2rem;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js .right-side-MYs .youre-in-good-hands-Cjq {
+  margin-bottom: 3.7861rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: -0.1256rem;
+  color: #000000;
+  font-family: DMSans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js .right-side-MYs .our-homes-are-more-than-structures-theyre-crafted-with-unparalleled-attention-to-detailour-properties-not-only-offer-a-dream-living-space-but-also-promise-a-sound-investment-for-your-futureenjoy-a-hassle-free-homebuying-journey-with-our-dedicated-team-guiding-you-every-step-of-the-way-5Hq {
+  margin-bottom: 8.7137rem;
+  max-width: 49.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js .right-side-MYs .group-5-sUb {
+  margin-left: 4.3315rem;
+  width: 13.969rem;
+  height: 2.1933rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .good-hands-4Js .rectangle-nrT {
+  margin-bottom: 0rem;
+  width: 76.2339rem;
+  height: 65.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.7rem 0 0 0;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb {
+  margin: 0rem 7.3rem 0rem 6.7rem;
+  box-sizing: border-box;
+  padding: 10rem 12.2rem 10rem 10rem;
+  width: calc(100% - 14rem);
+  height: 91.3rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .left-img-1UK {
+  margin: 0rem 10rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding-top: 45rem;
+  width: 54rem;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) -0%, rgba(0, 0, 0, 0.5) 67.7%);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/left-img-bg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .left-img-1UK .rectangle-3-wcs {
+  width: 61rem;
+  height: 25.2rem;
+  background: linear-gradient(2.11deg, #000000 1.36%, rgba(0, 0, 0, 0) 86.69%);
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 {
+  width: 57.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .why-choose-us-for-the-purchase-of-your-dream-home-uCK {
+  margin-bottom: 5.6rem;
+  max-width: 46.7rem;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP {
+  box-sizing: border-box;
+  padding-bottom: 5.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-1-gcP {
+  margin: 0rem 1.3rem 5.6rem 0rem;
+  width: calc(100% - 1.3rem);
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-1-gcP .icon-zd5 {
+  margin-right: 2rem;
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-1-gcP .txt-J7y {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-1-gcP .txt-J7y .exceptional-craftsmanship--qdh {
+  margin-bottom: 1.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-1-gcP .txt-J7y .our-homes-are-more-than-structures-theyre-crafted-with-unparalleled-attention-to-detail-LqM {
+  max-width: 46.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-2-DeF {
+  margin-right: 1.1rem;
+  width: calc(100% - 1.1rem);
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-2-DeF .icon-9no {
+  margin-right: 2rem;
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-2-DeF .txt-hZR {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-2-DeF .txt-hZR .smart-investment--SX1 {
+  margin-bottom: 1.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .auto-group-k1ww-XzP .row-2-DeF .txt-hZR .our-properties-not-only-offer-a-dream-living-space-but-also-promise-a-sound-investment-for-your-future-adD {
+  max-width: 46.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .row-3-FjM {
+  margin-bottom: 5.6rem;
+  width: 100%;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .row-3-FjM .icon-1Td {
+  margin-right: 2rem;
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .row-3-FjM .txt-xNs {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .row-3-FjM .txt-xNs .effortless-ownership--vab {
+  margin-bottom: 1.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .row-3-FjM .txt-xNs .enjoy-a-hassle-free-homebuying-journey-with-our-dedicated-team-guiding-you-every-step-of-the-way-eWb {
+  max-width: 47.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #060606;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Woq .auto-group-kzik-u5H .section-five-KLb .rightcontent-9U3 .details-1m9 .learn-more-x1V {
+  width: 16.2rem;
+  height: 4.8rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0c8ce9;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu {
+  box-sizing: border-box;
+  padding: 4.4rem 25.02rem 4.4rem 18.5rem;
+  width: 100%;
+  height: 41.5634rem;
+  display: flex;
+  align-items: center;
+  background-color: #80cee3;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .final-ks-8-DrX {
+  margin: 0rem 25.4rem 6.063rem 0rem;
+  width: 45rem;
+  height: 26.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/final-ks-8-bg.png');
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu {
+  margin: 3.9rem 8.52rem 9.949rem 0rem;
+  width: 22.36rem;
+  height: calc(100% - 13.8491rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af {
+  box-sizing: border-box;
+  padding: 0rem 0.068rem 2.368rem 0.068rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .auto-group-evhm-aab {
+  margin-bottom: 1.7781rem;
+  width: 15.4rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .auto-group-evhm-aab .stay-in-touch-TeP {
+  width: 15.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .auto-group-evhm-aab .stay-in-touch-mQB {
+  width: 15.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .group-39-6BZ {
+  margin-left: 0rem;
+  width: 16.5921rem;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .group-39-6BZ .item-012-9638595661-Qxw {
+  width: 13.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4921rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .group-39-6BZ .group-24-WWB {
+  width: 2.0541rem;
+  height: 1.7973rem;
+  position: absolute;
+  left: 0;
+  top: 0.2699rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .group-39-6BZ .group-39-yef {
+  width: 16.5921rem;
+  height: 2.4rem;
+  position: absolute;
+  left: -0rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .group-39-6BZ .group-39-yef .group-24-Tpj {
+  margin: 0rem 1.438rem 0.063rem 0rem;
+  width: 2.0541rem;
+  height: 1.7973rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .auto-group-fffm-3af .group-39-6BZ .group-39-yef .item-012-9638595661-AUF {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-40-DSX {
+  margin-bottom: 2.3681rem;
+  width: 100%;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-40-DSX .infouniletadvisorcom-ZmH {
+  width: 18.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.56rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-40-DSX .group-38-RYb {
+  width: 2.1519rem;
+  height: 1.4358rem;
+  position: absolute;
+  left: 0;
+  top: 0.4498rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-40-DSX .group-40-uyZ {
+  width: 22.36rem;
+  height: 2.4rem;
+  position: absolute;
+  left: -0rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-40-DSX .group-40-uyZ .group-38-DzF {
+  margin: 0rem 1.408rem 0.065rem 0rem;
+  width: 2.1519rem;
+  height: 1.4358rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-40-DSX .group-40-uyZ .infouniletadvisorcom-97D {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-41-dYB {
+  margin: 0rem 0.6rem 0rem 0.273rem;
+  width: calc(100% - 0.8732rem);
+  height: 4.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-41-dYB .archibald-st-toowoomba-qld-4350-Myy {
+  width: 18.2rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 3.2867rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-41-dYB .group-SVd {
+  width: 1.6638rem;
+  height: 1.9792rem;
+  position: absolute;
+  left: 0;
+  top: 0.09rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-41-dYB .group-41-abq {
+  width: 21.4867rem;
+  height: 4.7rem;
+  position: absolute;
+  left: -0rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-41-dYB .group-41-abq .group-8NT {
+  margin: 0.09rem 1.623rem 0rem 0rem;
+  width: 1.6638rem;
+  height: 1.9792rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-44-Ydu .group-41-dYB .group-41-abq .archibald-st-toowoomba-qld-4350-EwH {
+  max-width: 18.2rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm {
+  margin-bottom: 8.3957rem;
+  width: 15.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .connect-with-Uqd {
+  margin-bottom: 1.7781rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb {
+  margin: 0rem 2.067rem 0rem 1.027rem;
+  width: calc(100% - 3.0942rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-qxlb-JZm {
+  margin: 0rem 0.5rem 2.368rem 0.719rem;
+  width: calc(100% - 1.2189rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-qxlb-JZm .group-qZh {
+  margin: 0rem 2.26rem 0.061rem 0rem;
+  width: 1.0271rem;
+  height: 1.7993rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-qxlb-JZm .facebook-MY3 {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-n56o-6kX {
+  margin: 0rem 2.5rem 2.368rem 0rem;
+  width: calc(100% - 2.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-n56o-6kX .group-39y {
+  margin: 0.09rem 1.477rem 0rem 0rem;
+  width: 2.5283rem;
+  height: 1.7993rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-n56o-6kX .twitter-Nxw {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-beeb-8hD {
+  margin-left: 0.2055rem;
+  width: calc(100% - 0.2055rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-beeb-8hD .group-EkF {
+  margin: 0rem 1.746rem 0.061rem 0rem;
+  width: 2.0542rem;
+  height: 1.7993rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-d3p5-XTu .group-96-ZTm .group-95-Pxb .auto-group-beeb-8hD .instagram-Z1q {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-ie3r-Gwq {
+  box-sizing: border-box;
+  padding: 3.329rem 6.607rem 0rem 21.144rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-ie3r-Gwq .rectangle-72-1eX {
+  margin-bottom: 3.1179rem;
+  width: 100%;
+  height: 0.09rem;
+  background-color: #af2b2b;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-ie3r-Gwq .auto-group-b7jp-kMD {
+  margin: 0rem 55.193rem 0rem 47.37rem;
+  width: calc(100% - 102.5624rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-ie3r-Gwq .auto-group-b7jp-kMD .item--tCX {
+  margin: 0.391rem 1.387rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Woq .footer-Nb1 .auto-group-ie3r-Gwq .auto-group-b7jp-kMD .krishna-estate-2020-all-rights-reserved-ceK {
+  margin-bottom: 0.3907rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
