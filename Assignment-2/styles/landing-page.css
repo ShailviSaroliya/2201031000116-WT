@@ -1,0 +1,113 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 158rem;
+}.landing-page-a1M {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #dddddd;
+}
+.landing-page-a1M .auto-group-uamu-wFD {
+  margin-right: 57.2899rem;
+  width: calc(100% - 57.2899rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-a1M .auto-group-uamu-wFD .final-ks-1-Nzj {
+  margin-right: 73.9462rem;
+  width: 24.57rem;
+  height: 11.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/final-ks-1-bg.png');
+  flex-shrink: 0;
+}
+.landing-page-a1M .auto-group-uamu-wFD .navbar-4cf {
+  margin-bottom: 4.9295rem;
+  width: 2.1939rem;
+  height: 0.5733rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-a1M .auto-group-rtw7-xi3 {
+  margin-bottom: 166.8rem;
+  width: 100%;
+  height: 98.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/architecture-small-residential-cottage-surrounded-by-nature-generative-ai-1-bg.png');
+  flex-shrink: 0;
+}
+.landing-page-a1M .auto-group-rtw7-xi3 .beautiful-homes-made-3jV {
+  width: 43rem;
+  height: 24rem;
+  position: absolute;
+  left: 23.7rem;
+  top: 20rem;
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.201rem;
+  color: #ffffff;
+  font-family: DMSans, 'Source Sans Pro';
+}
+.landing-page-a1M .auto-group-rtw7-xi3 .our-homes-are-more-than-structures-theyre-crafted-with-unparalleled-attention-to-detail-u11 {
+  width: 29.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 24.6rem;
+  top: 46.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.landing-page-a1M .auto-group-rtw7-xi3 .auto-group-tnhv-ij9 {
+  width: 28.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 55.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0fb3af;
+  border-radius: 4rem;
+}
+.landing-page-a1M .final-ks-8-Kiw {
+  margin-left: 17.2rem;
+  width: 45rem;
+  height: 26.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/final-ks-8-bg.png');
+  flex-shrink: 0;
+}
